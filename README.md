@@ -1,4 +1,4 @@
-# imc_calculator
+# Calculadora de IMC
 Aplicativo para calcular índice de massa corporal.
 ## Licença
 
