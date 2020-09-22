@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:imc_calculator/pages/imc_page.dart';
 
+import 'core/theme_app.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -11,13 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Calculadora de IMC',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.green,
-        buttonTheme: ButtonThemeData(
-        textTheme: ButtonTextTheme.primary,
-          height: 50,
-        )
-      ),
+      theme: themeApp,
       home: ImcCalculator(),
     );
   }
