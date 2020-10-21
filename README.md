@@ -5,6 +5,7 @@ Aplicativo para calcular índice de massa corporal.
     <img src="https://res.cloudinary.com/edsan/image/upload/v1600789838/imc-calculator/imc-screenshot-01_ucughw.png" width="250"/>
     <img src="https://res.cloudinary.com/edsan/image/upload/v1600789839/imc-calculator/imc-screenshot-02_aqwtxo.png" width="250"/>
 </p>
+
 ## Licença
 
     Copyright 2020 Edson dos Santos Junior
